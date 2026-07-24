@@ -12,6 +12,8 @@ I am solving LeetCode problems for 100 days to improve my DSA skills.
 | 04 | Reverse Vowels of a String | Java | [Code](Day04/ReverseVowelsOfString.java) |
 | 05 | Reverse Words in a String | Java | [Code](Day05/ReverseWordsInString.java) |
 | 06 | Product of Array Except Self | Java | [Code](Day06/ProductOfArray-ExceptSelf.java) |
+| 07 | Increasing Triplet Subsequence | Java | [Code](Day06/increasing-triplet-subsequence.java) |
+
 
 
 
