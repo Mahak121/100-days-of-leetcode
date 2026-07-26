@@ -14,6 +14,7 @@ I am solving LeetCode problems for 100 days to improve my DSA skills.
 | 06 | Product of Array Except Self | Java | [Code](Day06/ProductOfArray-ExceptSelf.java) |
 | 07 | Increasing Triplet Subsequence | Java | [Code](Day07/increasing-triplet-subsequence.java) |
 | 08 | String Compression | Java | [Code](Day08/StringCompression.java) |
+| 09 | Move Zeroes | Java | [Code](Day09/MovesZeroes.java) |
 
 
 
