@@ -15,6 +15,7 @@ I am solving LeetCode problems for 100 days to improve my DSA skills.
 | 07 | Increasing Triplet Subsequence | Java | [Code](Day07/increasing-triplet-subsequence.java) |
 | 08 | String Compression | Java | [Code](Day08/StringCompression.java) |
 | 09 | Move Zeroes | Java | [Code](Day09/MovesZeroes.java) |
+| 10 | Is Subsequence | Java | [Code](Day10/IsSubsequence.java) |
 
 
 
